@@ -1,0 +1,2 @@
+# BukkitPlugin_AutoMine
+マインクラフトに掘削機を追加するBukkitプラグインです。
